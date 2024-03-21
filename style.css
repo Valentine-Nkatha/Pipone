@@ -1,10 +1,11 @@
 #introduction{
     background-color: fuchsia;
-    background-image: url(Images/one.jpeg);
+    background-image: url(Images/NINE.jpeg);
     background-size: cover;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(240, 241, 245);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: large;
+    height: 300px;
 }
 #buttons{
     background-color: green;
@@ -13,4 +14,8 @@
 }
 #Box{
     background-color: cornflowerblue;
+}
+#submit{
+    display: flex;
+    justify-content: center;
 }
